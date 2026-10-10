@@ -71,3 +71,13 @@ already cover them. Start running from the `llm()` / `ask()` definitions.
 - **`memory.txt`** is created by the memory section and grows on every tool call. Delete it to reset
   the agent's long-term memory. It is git-ignored.
 - Outputs depend on live weather data and local model behaviour, so results vary between runs.
+
+## Cartaz Porto no GitHub Pages
+
+O workflow `Refresh Cartaz Porto` atualiza diariamente `cache/cartaz_porto.json` e
+`cache/cinemas_porto.json` e publica-os num site GitHub Pages. Também pode ser iniciado
+manualmente em **Actions > Refresh Cartaz Porto > Run workflow**.
+
+Na primeira utilização, ativa GitHub Pages nas definições do repositório com a origem
+**GitHub Actions**. Opcionalmente, cria o secret `CARTAZ_UA` com um user-agent que inclua
+um contacto. O URL público será `https://canoas.github.io/dspt-agenticai/`.

@@ -1,0 +1,81 @@
+name: Refresh Cartaz Porto
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 05:00 UTC is 06:00 in Lisbon in both winter and summer time.
+    - cron: "0 5 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install scraper dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Refresh cache
+        env:
+          CARTAZ_UA: ${{ secrets.CARTAZ_UA || 'dspt-agenticai-cartaz/1.0 (+https://github.com/canoas/dspt-agenticai)' }}
+        run: python cartaz_porto.py --forcar
+
+      - name: Build public Pages site
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp cache/cartaz_porto.json cache/cinemas_porto.json _site/
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          cartaz = json.loads(Path("cache/cartaz_porto.json").read_text(encoding="utf-8"))
+          gerado_em = cartaz.get("gerado_em", "desconhecido")
+          Path("_site/index.html").write_text(f"""<!doctype html>
+          <html lang="pt-PT">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Cartaz de cinema do Porto</title>
+          </head>
+          <body>
+            <h1>Cartaz de cinema do Porto</h1>
+            <p>Cache atualizada em {gerado_em}.</p>
+            <ul>
+              <li><a href="cartaz_porto.json">Sessões e filmes</a></li>
+              <li><a href="cinemas_porto.json">Cinemas e salas</a></li>
+            </ul>
+          </body>
+          </html>
+          """, encoding="utf-8")
+          PY
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
