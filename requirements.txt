@@ -1,4 +1,8 @@
+# Notebook pins litellm==1.104.0; 1.103.2 used here because the local uv
+# exclude-newer cooldown blocks 1.104.0 (published 2026-10-03).
 google-adk==2.11.0
-litellm==1.104.0
+litellm==1.103.2
 jupyterlab
 ipykernel
+requests
+beautifulsoup4

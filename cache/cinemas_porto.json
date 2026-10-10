@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T16:54:39+01:00",
+  "gerado_em": "2026-10-10T16:56:08+01:00",
   "distrito": "Porto",
   "notas": [
     "salas: as que aparecem nas sessões do filmspot (e de execuções anteriores); uma sala sem sessões pode faltar. n_salas é o total conhecido quando há fonte para isso, senão o número de salas vistas.",
@@ -47,37 +47,25 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -106,17 +94,13 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -153,59 +137,44 @@
           "nome": "Sala 1",
           "lugares": null,
           "formatos": [
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 6",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 7",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -237,43 +206,31 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -311,42 +268,31 @@
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 6",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -374,59 +320,43 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-27"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 6",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 7",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
@@ -465,19 +395,14 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO",
-            "Legendas em Inglês"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
           "formatos": [
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
@@ -486,26 +411,21 @@
           "lugares": null,
           "formatos": [
             "XLVISION",
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-27"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
           "formatos": [
-            "VP",
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
@@ -524,8 +444,7 @@
           "nome": "Sala 7",
           "lugares": null,
           "formatos": [
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
@@ -533,17 +452,14 @@
           "nome": "Sala 8",
           "lugares": null,
           "formatos": [
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 9",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -579,103 +495,75 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
           "formatos": [
-            "ATMOS",
-            "VO"
+            "ATMOS"
           ],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 6",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 7",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 8",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 9",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 10",
           "lugares": null,
-          "formatos": [
-            "VO",
-            "VP"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 11",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 12",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -790,9 +678,7 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
@@ -844,158 +730,115 @@
         {
           "nome": "Sala 1",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 2",
           "lugares": null,
-          "formatos": [
-            "VO",
-            "VP"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 3",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 4",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 5",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 7",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 8",
           "lugares": null,
-          "formatos": [
-            "VP",
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 9",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 10",
           "lugares": null,
-          "formatos": [
-            "VO",
-            "VP"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 11",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 12",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 13",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 14",
           "lugares": null,
-          "formatos": [
-            "VO",
-            "VP"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 15",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 16",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 17",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 18",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 19",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         },
         {
           "nome": "Sala 20",
           "lugares": null,
-          "formatos": [
-            "VO"
-          ],
+          "formatos": [],
           "visto_em": "2026-10-14"
         }
       ],
