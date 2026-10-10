@@ -1,0 +1,7352 @@
+{
+  "gerado_em": "2026-10-10T16:38:39+01:00",
+  "fonte": "https://www.magazine-hd.com/filme/",
+  "distrito": "Porto",
+  "user_agent": "agente-pessoal-cinema/1.0 (contacto: preenche-aqui)",
+  "dias": {
+    "2026-10-11": [
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "00:05",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "00:25",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "10:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:40",
+        "cinema": "Cinemas NOS Almada Forum",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "10:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "10:40",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "10:45",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "10:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "10:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "10:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "11:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:00",
+        "cinema": "Cinemas NOS Alegro Montijo",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "11:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "11:05",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "11:10",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "11:15",
+        "cinema": "Castello Lopes Barra Shopping Barreiro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:30",
+        "cinema": "Cinema City Alegro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "11:35",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "Coyote Vs. Acme"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Almada Forum",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "Cinema City Alegro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Um Fantasma Ãtil"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alegro Montijo",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "14:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "SacrifÃ­cio"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "14:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "14:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "14:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "14:55",
+        "cinema": "Castello Lopes Barra Shopping Barreiro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "15:05",
+        "cinema": "Cinemas NOS Almada Forum",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "15:15",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinema City Alegro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "Amor"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Alegro Montijo",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:55",
+        "cinema": "Castello Lopes Barra Shopping Barreiro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "17:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "17:15",
+        "cinema": "Cinemas NOS Almada Forum",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "17:25",
+        "cinema": "Cinema City Alegro",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "A Amiga Silenciosa"
+      },
+      {
+        "hora": "18:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "AdolescÃªncia, Sexo e Morte no Acampamento Miasma"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "19:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "19:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "20:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "Brincadeiras Perigosas"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "4DX",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      }
+    ],
+    "2026-10-12": [
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "00:05",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:05",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "00:25",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:25",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "00:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "12:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Um Fantasma Ãtil"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Um Fantasma Ãtil"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "14:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "14:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "SacrifÃ­cio"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "SacrifÃ­cio"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "14:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "14:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "14:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "14:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "14:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "14:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "14:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "15:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "15:15",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:15",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "16:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "16:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "17:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "17:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "17:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "D' Est"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "17:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "17:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "18:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "18:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "18:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "19:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "AdolescÃªncia, Sexo e Morte no Acampamento Miasma"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "19:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "19:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "20:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "A Amiga Silenciosa"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "A Amiga Silenciosa"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Vidas Secas"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "4DX",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "4DX",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "22:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "23:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      }
+    ],
+    "2026-10-14": [
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "00:05",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "00:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "00:25",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "00:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "12:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "12:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "13:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "13:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Um Fantasma Ãtil"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "13:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "13:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "14:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "14:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "SacrifÃ­cio"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "14:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "14:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "IMAX",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "14:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "14:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "14:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "14:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "14:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "15:15",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "15:40",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "15:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "16:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:25",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "16:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "16:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "Vaiana"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "16:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "16:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "17:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "17:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "MÃ­nimos e Monstros"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "O JacarÃ©"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "17:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "17:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "17:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "17:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "17:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:05",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "4DX 3D",
+        "sala": "—",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:10",
+        "cinema": "Cinemas NOS Ãvora Plaza",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VP",
+        "filme": "A Ovelha ChonÃ©: Trapalhada na Quinta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "18:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "18:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "18:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "18:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "18:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "Toy Story 5"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "19:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:10",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "19:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "19:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "19:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "20:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "20:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "20:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:45",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "20:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "21:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "Teatro Municipal Campo Alegre",
+        "sala": "VO",
+        "filme": "A Amiga Silenciosa"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Odisseia"
+      },
+      {
+        "hora": "21:15",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "21:20",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VP",
+        "filme": "A Ilha Esquecida"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "Frances Ha"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinema Trindade",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Natal Amargo"
+      },
+      {
+        "hora": "21:30",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "21:35",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Castello Lopes Mira Maia Shopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primavera - As Quatro EstaÃ§Ãµes"
+      },
+      {
+        "hora": "21:40",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:45",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "O Veredito Social"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Alameda Shop & Spot",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Gaia Shopping",
+        "sala": "4DX",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "NAZA"
+      },
+      {
+        "hora": "21:50",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Primetime"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Magia e SeduÃ§Ã£o: Segredos de FamÃ­lia"
+      },
+      {
+        "hora": "21:55",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Uma Outra MÃ£e"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Ferrara Plaza",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Resident Evil"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "A Revolta"
+      },
+      {
+        "hora": "22:00",
+        "cinema": "UCI Cinemas ArrÃ¡bida 20",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "22:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:00",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Runner: Corrida Pela Vida"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "De Gaulle: ResistÃªncia (Filme 1)"
+      },
+      {
+        "hora": "23:10",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Noite e Dia"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Verity"
+      },
+      {
+        "hora": "23:20",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Homem-Aranha: Um Novo Dia"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:30",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Heart of the Beast -  HerÃ³is InseparÃ¡veis"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Mar Shopping Matosinhos",
+        "sala": "VO",
+        "filme": "Santo AntÃ³nio, O Casamenteiro de Lisboa"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS NorteShopping",
+        "sala": "3D",
+        "filme": "Vingadores: Endgame"
+      },
+      {
+        "hora": "23:40",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Digger"
+      },
+      {
+        "hora": "23:50",
+        "cinema": "Cinemas NOS Parque Nascente",
+        "sala": "VO",
+        "filme": "Verity"
+      }
+    ]
+  }
+}

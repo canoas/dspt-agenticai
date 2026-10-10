@@ -1,0 +1,21 @@
+{
+  "_leia-me": "Lotação das salas, mantida à mão: nenhuma das fontes do cartaz_porto.py a publica. Chave = nome do cinema (basta ser reconhecível, p.ex. 'Cinemas NOS NorteShopping'). Campos opcionais: n_salas, lugares_total, salas {\"Sala 1\": lugares}, nota, fonte. Só pôr números com fonte.",
+  "cinemas": {
+    "Cinemas NOS NorteShopping": {
+      "n_salas": 9,
+      "lugares_total": 2286,
+      "nota": "Complexo renovado com sala ScreenX e NOS XVision; seis salas têm zona premium.",
+      "fonte": "https://pplware.sapo.pt/?p=639149"
+    },
+    "Cinema Trindade": {
+      "n_salas": 2,
+      "lugares_total": 352,
+      "nota": "Duas salas, de 169 e 183 lugares (reabertura em 2017); a fonte não diz qual é a Sala 1.",
+      "fonte": "https://www.dn.pt/arquivo/diario-de-noticias/ha-um-novo-filme-no-porto-que--so-esta-a-espera-dos-espectadores-5620286.html"
+    },
+    "UCI Cinemas Arrábida 20": {
+      "nota": "Construído com 20 salas e mais de 4000 lugares; em 2025 foi autorizado o fecho de 9 salas, por isso o total atual é incerto.",
+      "fonte": "https://echoboomer.pt/arrabidashopping-fecha-quase-metade-salas-de-cinema/"
+    }
+  }
+}
