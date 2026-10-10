@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 memory.txt
 .DS_Store
+cache/painel_partidas.html

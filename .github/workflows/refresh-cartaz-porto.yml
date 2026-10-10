@@ -2,6 +2,15 @@ name: Refresh Cartaz Porto
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "cartaz_porto.py"
+      - "ratings_filmes.py"
+      - "painel_partidas.py"
+      - "painel_partidas.template.html"
+      - "salas_porto_manual.json"
+      - ".github/workflows/refresh-cartaz-porto.yml"
   schedule:
     # 05:00 UTC is 06:00 in Lisbon in both winter and summer time.
     - cron: "0 5 * * *"
@@ -36,13 +45,24 @@ jobs:
       - name: Refresh cache
         env:
           CARTAZ_UA: ${{ secrets.CARTAZ_UA || 'dspt-agenticai-cartaz/1.0 (+https://github.com/canoas/dspt-agenticai)' }}
-        run: python cartaz_porto.py --forcar
+        # On push, reuse the committed cache if it is from today; otherwise fetch again.
+        run: python cartaz_porto.py ${{ github.event_name == 'push' && ' ' || '--forcar' }}
+
+      - name: Add ratings for new films
+        env:
+          CARTAZ_UA: ${{ secrets.CARTAZ_UA || 'dspt-agenticai-cartaz/1.0 (+https://github.com/canoas/dspt-agenticai)' }}
+        run: python ratings_filmes.py
+
+      - name: Build departures board
+        run: python painel_partidas.py
 
       - name: Build public Pages site
         run: |
           rm -rf _site
           mkdir -p _site
-          cp cache/cartaz_porto.json cache/cinemas_porto.json _site/
+          mkdir -p _site/fly
+          cp cache/cartaz_porto.json cache/cinemas_porto.json cache/ratings_filmes.json _site/
+          cp cache/painel_partidas.html _site/fly/index.html
           python - <<'PY'
           import json
           from pathlib import Path
@@ -60,8 +80,10 @@ jobs:
             <h1>Cartaz de cinema do Porto</h1>
             <p>Cache atualizada em {gerado_em}.</p>
             <ul>
+              <li><a href="fly/">Painel de partidas</a></li>
               <li><a href="cartaz_porto.json">Sessões e filmes</a></li>
               <li><a href="cinemas_porto.json">Cinemas e salas</a></li>
+              <li><a href="ratings_filmes.json">Ratings dos filmes</a></li>
             </ul>
           </body>
           </html>
