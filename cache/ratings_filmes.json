@@ -1,0 +1,847 @@
+{
+  "atualizado_em": "2026-10-10T17:14:22+01:00",
+  "notas": [
+    "imdb: nota de 0 a 10 e votos do dataset https://datasets.imdbws.com/title.ratings.tsv.gz (uso pessoal e não comercial); rating null = filme ainda sem votos no IMDb.",
+    "ipsilon: estrelas de 0 a 5 das críticas do Público, via Cinecartaz.",
+    "Cada filme é tratado uma só vez; usa --refazer para atualizar notas."
+  ],
+  "filmes": {
+    "a-amiga-silenciosa-2025": {
+      "titulo": "A Amiga Silenciosa",
+      "ano": 2025,
+      "imdb": {
+        "id": "tt27811632",
+        "url": "https://www.imdb.com/title/tt27811632/",
+        "rating": 7.3,
+        "votos": 3893
+      },
+      "ipsilon": {
+        "media": 2.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "A Amiga Silenciosa : o sol do Ginkgo biloba",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2026/08/26/culturaipsilon/critica/amiga-silenciosa-sol-ginkgo-biloba-2186042"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "a-ilha-esquecida-2026": {
+      "titulo": "A Ilha Esquecida",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt36583977",
+        "url": "https://www.imdb.com/title/tt36583977/",
+        "rating": 7.7,
+        "votos": 5230
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "a-odisseia-2026": {
+      "titulo": "A Odisseia",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt33764258",
+        "url": "https://www.imdb.com/title/tt33764258/",
+        "rating": 8.4,
+        "votos": 523388
+      },
+      "ipsilon": {
+        "media": 1.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "A “nolanização” de Homero — A Odisseia , de Christopher Nolan, é um filme desalmado",
+            "estrelas": 1,
+            "url": "https://www.publico.pt/2026/07/14/culturaipsilon/critica/nolanizacao-homero-odisseia-christopher-nolan-filme-desalmado-2181570"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "a-ovelha-chone-trapalhada-na-quinta-2026": {
+      "titulo": "A Ovelha Choné: Trapalhada na Quinta",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt36841161",
+        "url": "https://www.imdb.com/title/tt36841161/",
+        "rating": 7.2,
+        "votos": 1210
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "a-pianista-reposicao-2001": {
+      "titulo": "A Pianista (reposição)",
+      "ano": 2001,
+      "imdb": {
+        "id": "tt0254686",
+        "url": "https://www.imdb.com/title/tt0254686/",
+        "rating": 7.5,
+        "votos": 83240
+      },
+      "ipsilon": {
+        "media": 4.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Vasco Câmara",
+            "titulo": "Melodrama Interrompido",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2001/11/09/culturaipsilon/noticia/melodrama-interrompido-1651483"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "a-revolta-2026": {
+      "titulo": "A Revolta",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt36983905",
+        "url": "https://www.imdb.com/title/tt36983905/",
+        "rating": 6.2,
+        "votos": 8109
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "adolescencia-sexo-e-morte-no-acampamento-miasma-2026": {
+      "titulo": "Adolescência, Sexo e Morte no Acampamento Miasma",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt35298123",
+        "url": "https://www.imdb.com/title/tt35298123/",
+        "rating": 6.5,
+        "votos": 20136
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "amor-reposicao-2012": {
+      "titulo": "Amor (reposição)",
+      "ano": 2012,
+      "imdb": {
+        "id": "tt1602620",
+        "url": "https://www.imdb.com/title/tt1602620/",
+        "rating": 7.9,
+        "votos": 111477
+      },
+      "ipsilon": {
+        "media": 3.7,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Amor",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2012/12/05/culturaipsilon/noticia/amor-1658075"
+          },
+          {
+            "autor": "Vasco Câmara",
+            "titulo": "Os vivos não percebem nada dos mortos",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2012/12/05/culturaipsilon/noticia/os-vivos-nao-percebem-nada-dos-mortos-1658073"
+          },
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Amor",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2012/12/05/culturaipsilon/noticia/amor-1658074"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "brincadeiras-perigosas-reposicao-1997": {
+      "titulo": "Brincadeiras Perigosas (reposição)",
+      "ano": 1997,
+      "imdb": {
+        "id": "tt0119167",
+        "url": "https://www.imdb.com/title/tt0119167/",
+        "rating": 7.5,
+        "votos": 99895
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "coyote-vs-acme-2023": {
+      "titulo": "Coyote Vs. Acme",
+      "ano": 2023,
+      "imdb": {
+        "id": "tt1756855",
+        "url": "https://www.imdb.com/title/tt1756855/",
+        "rating": 7.4,
+        "votos": 40727
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Coyote vs. Acme : os Looney Tunes unidos jamais serão vencidos",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/08/26/culturaipsilon/critica/coyote-vs-acme-looney-tunes-unidos-jamais-serao-vencidos-2186045"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "d-est-reposicao-1993": {
+      "titulo": "D' Est (reposição)",
+      "ano": 1993,
+      "imdb": {
+        "id": "tt0106642",
+        "url": "https://www.imdb.com/title/tt0106642/",
+        "rating": 7.2,
+        "votos": 1175
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "de-gaulle-resistencia-filme-1-2026": {
+      "titulo": "De Gaulle: Resistência (Filme 1)",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt28553375",
+        "url": "https://www.imdb.com/title/tt28553375/",
+        "rating": 7.7,
+        "votos": 3647
+      },
+      "ipsilon": {
+        "media": 2.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Vasco Câmara",
+            "titulo": "De Gaulle: Resistência : a aventura dos cromos",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/gaulle-resistencia-aventura-cromos-2190348"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "digger-2026": {
+      "titulo": "Digger",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt31450459",
+        "url": "https://www.imdb.com/title/tt31450459/",
+        "rating": 7.4,
+        "votos": 25020
+      },
+      "ipsilon": {
+        "media": 1.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Digger : um Iñárritu histérico e um Tom Cruise envelhecido",
+            "estrelas": 1,
+            "url": "https://www.publico.pt/2026/09/30/culturaipsilon/critica/digger-inarritu-histerico-tom-cruise-envelhecido-2189718"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "frances-ha-2013": {
+      "titulo": "Frances Ha",
+      "ano": 2013,
+      "imdb": {
+        "id": "tt2347569",
+        "url": "https://www.imdb.com/title/tt2347569/",
+        "rating": 7.4,
+        "votos": 103658
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Frances Ha",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2013/10/22/culturaipsilon/noticia/frances-ha-1658517"
+          },
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Uma bela rapariga na cidade",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2013/10/14/culturaipsilon/noticia/uma-bela-rapariga-na-cidade-1658496"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "heart-of-the-beast-herois-inseparaveis-2026": {
+      "titulo": "Heart of the Beast - Heróis Inseparáveis",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt7526136",
+        "url": "https://www.imdb.com/title/tt7526136/",
+        "rating": 7.2,
+        "votos": 22069
+      },
+      "ipsilon": {
+        "media": 1.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Heart of the Beast - Heróis Inseparáveis , de David Ayer: o cão-soldado",
+            "estrelas": 1,
+            "url": "https://www.publico.pt/2026/09/23/culturaipsilon/critica/heart-of-the-beast-herois-inseparaveis-david-ayer-caosoldado-2188945"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "homem-aranha-um-novo-dia-2026": {
+      "titulo": "Homem-Aranha: Um Novo Dia",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt22084616",
+        "url": "https://www.imdb.com/title/tt22084616/",
+        "rating": 8.0,
+        "votos": 333022
+      },
+      "ipsilon": {
+        "media": 1.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Homem-Aranha: Um Novo Dia , insípido e desinteressante",
+            "estrelas": 1,
+            "url": "https://www.publico.pt/2026/07/28/culturaipsilon/critica/homemaranha-novo-dia-insipido-desinteressante-2183274"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "magia-e-seducao-segredos-de-familia-2026": {
+      "titulo": "Magia e Sedução: Segredos de Família",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt32588798",
+        "url": "https://www.imdb.com/title/tt32588798/",
+        "rating": 6.3,
+        "votos": 11694
+      },
+      "ipsilon": {
+        "media": 1.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Magia e Sedução - Segredos de Família : um desperdício, de actrizes e de feitiços",
+            "estrelas": 1,
+            "url": "https://www.publico.pt/2026/09/10/culturaipsilon/critica/magia-seducao-segredos-familia-desperdicio-actrizes-feiticos-2187617"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "manon-royal-ballet-and-opera-2026": {
+      "titulo": "Manon (Royal Ballet and Opera)",
+      "ano": 2026,
+      "imdb": null,
+      "ipsilon": null,
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "minimos-e-monstros-2026": {
+      "titulo": "Mínimos e Monstros",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt32890033",
+        "url": "https://www.imdb.com/title/tt32890033/",
+        "rating": 6.3,
+        "votos": 34446
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "natal-amargo-2026": {
+      "titulo": "Natal Amargo",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt28088049",
+        "url": "https://www.imdb.com/title/tt28088049/",
+        "rating": 6.3,
+        "votos": 5344
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Natal Amargo , de Pedro Almodóvar: mulher à beira de um ataque de pânico",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/09/23/culturaipsilon/critica/mulher-beira-ataque-panico-2188770"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "naza-2026": {
+      "titulo": "NAZA",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt44766123",
+        "url": "https://www.imdb.com/title/tt44766123/",
+        "rating": 7.9,
+        "votos": 3226
+      },
+      "ipsilon": {
+        "media": 4.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "NAZA : o cinema ainda é um ecrã de resistência",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2026/09/30/culturaipsilon/critica/naza-prova-cinema-ecra-resistencia-2189706"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "noite-e-dia-2026": {
+      "titulo": "Noite e Dia",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt27802226",
+        "url": "https://www.imdb.com/title/tt27802226/",
+        "rating": 5.6,
+        "votos": 466
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "o-convite-2026": {
+      "titulo": "O Convite",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt14173636",
+        "url": "https://www.imdb.com/title/tt14173636/",
+        "rating": 7.4,
+        "votos": 81985
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "O Convite , de Olivia Wilde: quem quer ir para a cama com Virginia Woolf?",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/07/08/culturaipsilon/critica/quer-ir-cama-virginia-woolf-2181035"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "o-jacare-2026": {
+      "titulo": "O Jacaré",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt18376344",
+        "url": "https://www.imdb.com/title/tt18376344/",
+        "rating": 6.2,
+        "votos": 40
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "o-laco-branco-reposicao-2009": {
+      "titulo": "O Laço Branco (reposição)",
+      "ano": 2009,
+      "imdb": {
+        "id": "tt1149362",
+        "url": "https://www.imdb.com/title/tt1149362/",
+        "rating": 7.8,
+        "votos": 82247
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "O Laço Branco",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2010/01/28/culturaipsilon/noticia/o-laco-branco-1655965"
+          },
+          {
+            "autor": "Mário Jorge Torres",
+            "titulo": "O Laço Branco",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2010/01/28/culturaipsilon/noticia/o-laco-branco-1655964"
+          },
+          {
+            "autor": "Vasco Câmara",
+            "titulo": "O Laço Branco",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2010/01/13/culturaipsilon/noticia/o-laco-branco-1655904"
+          },
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Em nome dos filhos",
+            "estrelas": 4,
+            "url": "https://www.publico.pt/2010/01/13/culturaipsilon/noticia/em-nome-dos-filhos-1655903"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "o-veredito-social-2026": {
+      "titulo": "O Veredito Social",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt37510326",
+        "url": "https://www.imdb.com/title/tt37510326/",
+        "rating": 6.7,
+        "votos": 1075
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "O Veredicto Social : ajuste de contas com Mark Zuckerberg",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/veredicto-social-ajuste-contas-mark-zuckerberg-2190572"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "patrulha-pata-o-filme-dos-dinossauros": {
+      "titulo": "Patrulha Pata: O Filme dos Dinossauros",
+      "ano": null,
+      "imdb": null,
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "primavera-as-quatro-estacoes-2025": {
+      "titulo": "Primavera - As Quatro Estações",
+      "ano": 2025,
+      "imdb": {
+        "id": "tt33586629",
+        "url": "https://www.imdb.com/title/tt33586629/",
+        "rating": 7.1,
+        "votos": 1942
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "primetime-2026": {
+      "titulo": "Primetime",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt34206385",
+        "url": "https://www.imdb.com/title/tt34206385/",
+        "rating": 7.1,
+        "votos": 15379
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Primetime : telhados de vidro e pés de barro",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/primetime-telhados-vidro-pes-barro-2190479"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "queen-budapeste-1986": {
+      "titulo": "Queen Budapeste",
+      "ano": 1986,
+      "imdb": {
+        "id": "tt0093427",
+        "url": "https://www.imdb.com/title/tt0093427/",
+        "rating": 8.6,
+        "votos": 1411
+      },
+      "ipsilon": null,
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "resident-evil-2026": {
+      "titulo": "Resident Evil",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt35538033",
+        "url": "https://www.imdb.com/title/tt35538033/",
+        "rating": 7.6,
+        "votos": 94571
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "runner-corrida-pela-vida-2026": {
+      "titulo": "Runner: Corrida Pela Vida",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt31349844",
+        "url": "https://www.imdb.com/title/tt31349844/",
+        "rating": 6.3,
+        "votos": 11729
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "sacrificio-2026": {
+      "titulo": "Sacrifício",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt32268992",
+        "url": "https://www.imdb.com/title/tt32268992/",
+        "rating": 5.1,
+        "votos": 1858
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "santo-antonio-o-casamenteiro-de-lisboa-2026": {
+      "titulo": "Santo António, O Casamenteiro de Lisboa",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt38781172",
+        "url": "https://www.imdb.com/title/tt38781172/",
+        "rating": 7.0,
+        "votos": 339
+      },
+      "ipsilon": {
+        "media": 0.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Santo António , de Ruben Alves: “Ó Ernestina, isto foi tudo uma grande aldrabice”",
+            "estrelas": 0,
+            "url": "https://www.publico.pt/2026/09/09/culturaipsilon/critica/santo-antonio-ruben-alves-ernestina-aldrabice-2187243"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "toy-story-5-2026": {
+      "titulo": "Toy Story 5",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt29355505",
+        "url": "https://www.imdb.com/title/tt29355505/",
+        "rating": 7.3,
+        "votos": 96989
+      },
+      "ipsilon": {
+        "media": 2.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Toy Story 5 : a brincar sozinhos",
+            "estrelas": 2,
+            "url": "https://www.publico.pt/2026/06/17/culturaipsilon/critica/toy-story-5-brincar-sozinhos-2178550"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "truly-naked-2026": {
+      "titulo": "Truly Naked",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt8760666",
+        "url": "https://www.imdb.com/title/tt8760666/",
+        "rating": 6.2,
+        "votos": 1862
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "um-fantasma-util-2025": {
+      "titulo": "Um Fantasma Útil",
+      "ano": 2025,
+      "imdb": {
+        "id": "tt22530226",
+        "url": "https://www.imdb.com/title/tt22530226/",
+        "rating": 6.7,
+        "votos": 1867
+      },
+      "ipsilon": {
+        "media": 3.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Jorge Mourinha",
+            "titulo": "Um Fantasma Útil : há mais alguma coisa para aspirar!",
+            "estrelas": 3,
+            "url": "https://www.publico.pt/2026/09/30/culturaipsilon/critica/fantasma-util-ha-aspirar-2189574"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "uma-outra-mae-2026": {
+      "titulo": "Uma Outra Mãe",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt36586020",
+        "url": "https://www.imdb.com/title/tt36586020/",
+        "rating": 5.7,
+        "votos": 1715
+      },
+      "ipsilon": {
+        "media": 0.0,
+        "escala": 5,
+        "criticas": [
+          {
+            "autor": "Luís Miguel Oliveira",
+            "titulo": "Uma Outra Mãe : maternidades falhadas",
+            "estrelas": 0,
+            "url": "https://www.publico.pt/2026/10/07/culturaipsilon/critica/mae-maternidades-falhadas-2190360"
+          }
+        ]
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "vaiana-2026": {
+      "titulo": "Vaiana",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt27419466",
+        "url": "https://www.imdb.com/title/tt27419466/",
+        "rating": 5.8,
+        "votos": 19129
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "verity-2026": {
+      "titulo": "Verity",
+      "ano": 2026,
+      "imdb": {
+        "id": "tt32261958",
+        "url": "https://www.imdb.com/title/tt32261958/",
+        "rating": 6.0,
+        "votos": 11802
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "vidas-secas-reposicao-1963": {
+      "titulo": "Vidas Secas (reposição)",
+      "ano": 1963,
+      "imdb": {
+        "id": "tt0057654",
+        "url": "https://www.imdb.com/title/tt0057654/",
+        "rating": 7.5,
+        "votos": 3488
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    },
+    "vingadores-endgame-reposicao-2019": {
+      "titulo": "Vingadores: Endgame (reposição)",
+      "ano": 2019,
+      "imdb": {
+        "id": "tt4154796",
+        "url": "https://www.imdb.com/title/tt4154796/",
+        "rating": 8.4,
+        "votos": 1497861
+      },
+      "ipsilon": {
+        "media": null,
+        "escala": 5,
+        "criticas": []
+      },
+      "obtido_em": "2026-10-10T17:14:22+01:00"
+    }
+  }
+}

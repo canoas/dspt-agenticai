@@ -53,6 +53,11 @@ magazine-hd.com. Output goes to `cache/cartaz_porto.json` (sessions per day plus
 None of the sources publish seat counts, so those come from the hand-maintained `salas_porto_manual.json`; only add
 numbers that have a source. The script obeys each site's robots.txt and Crawl-delay, and fetches once a day unless run with `--forcar`.
 
+`ratings_filmes.py` reads the films from that cache and writes `cache/ratings_filmes.json`. It only processes films that
+aren't already in that file (`--refazer` redoes all of them). The IMDb ID comes from the filmspot film page, and the rating
+and vote count come from the official IMDb dataset (`title.ratings.tsv.gz`). imdb.com's robots.txt forbids scraping, so
+don't fetch its pages. Ípsilon critic stars (0–5) come from Cinecartaz.
+
 ## Known gaps
 
 - `cat.jpg`, which section 4 references, is not in the repo.
