@@ -45,6 +45,14 @@ Patterns build on each other, and later cells reuse earlier agents:
 
 State flows between agents only via `output_key` and `{key}` templating in instructions.
 
+## Cinema listings cache (`cartaz_porto.py`)
+
+A standalone scraper, separate from the notebook. It merges Porto-district sessions from filmspot.pt (room numbers,
+address, GPS), cinecartaz.publico.pt (director, cast, age rating, weekly Thu→Wed grid with no dates) and
+magazine-hd.com. Output goes to `cache/cartaz_porto.json` (sessions per day plus film records) and `cache/cinemas_porto.json`.
+None of the sources publish seat counts, so those come from the hand-maintained `salas_porto_manual.json`; only add
+numbers that have a source. The script obeys each site's robots.txt and Crawl-delay, and fetches once a day unless run with `--forcar`.
+
 ## Known gaps
 
 - `cat.jpg`, which section 4 references, is not in the repo.
