@@ -209,7 +209,12 @@ def inferir_ano(dia: int, mes: int, hoje: date) -> Optional[date]:
 
 
 def hora_hhmm(h: str, m: Optional[str] = None) -> str:
-    return f"{int(h):02d}:{int(m or 0):02d}"
+    return f"{int(h) % 24:02d}:{int(m or 0):02d}"   # "24h" do Cinecartaz é 00:00
+
+
+def ordem_hora(hora: str) -> str:
+    """As sessões depois da meia-noite pertencem ao dia de cinema anterior: vão para o fim."""
+    return hora if hora >= "05:00" else f"~{hora}"
 
 
 # ---------------------------------------------------------------------------
@@ -557,7 +562,8 @@ class Cinemas:
 def variantes_titulo(f: Filme) -> List[str]:
     vs = []
     for t in [f.titulo, *f.titulos]:
-        t = re.sub(r"\s*\(\d{4}\)\s*$", "", t)
+        # sem "(2026)", "(reposição)", "(Filme 1)"...
+        t = re.sub(r"(\s*\([^)]*\))+\s*$", "", t)
         vs.append(normalizar(t))
     return [v for v in vs if v]
 
@@ -667,7 +673,7 @@ def ordem_sala(nome: str) -> tuple:
 
 def guardar_cartaz(recolhas: List[Recolha], filmes: Filmes, sessoes: Dict[tuple, dict]) -> None:
     dias: Dict[str, list] = {}
-    for (d, *_), s in sorted(sessoes.items(), key=lambda kv: (kv[0][0], kv[1]["hora"],
+    for (d, *_), s in sorted(sessoes.items(), key=lambda kv: (kv[0][0], ordem_hora(kv[1]["hora"]),
                                                               kv[1]["cinema"].casefold(),
                                                               kv[1]["filme"].casefold())):
         dias.setdefault(d.isoformat(), []).append(s)
@@ -682,6 +688,11 @@ def guardar_cartaz(recolhas: List[Recolha], filmes: Filmes, sessoes: Dict[tuple,
                    if f["id"] in usados},
         "dias": dias,
     })
+
+
+def formato_de_sala(t: str) -> bool:
+    """3D, IMAX, ATMOS... dizem algo da sala; VP/VO e "Legendas em Inglês" são da sessão."""
+    return t.isupper() and t not in {"VP", "VO", "VOS", "VOSE", "VPT"}
 
 
 def guardar_cinemas(cinemas: Cinemas, sessoes: Dict[tuple, dict]) -> None:
@@ -703,7 +714,7 @@ def guardar_cinemas(cinemas: Cinemas, sessoes: Dict[tuple, dict]) -> None:
             continue
         sala = salas.setdefault(s["cinema_id"], {}).setdefault(
             s["sala"], {"nome": s["sala"], "lugares": None, "formatos": [], "visto_em": d.isoformat()})
-        sala["formatos"] += [t for t in s["formatos"] if t not in sala["formatos"]]
+        sala["formatos"] += [t for t in s["formatos"] if t not in sala["formatos"] and formato_de_sala(t)]
         sala["visto_em"] = max(sala["visto_em"], d.isoformat())
 
     lista = []
@@ -714,7 +725,8 @@ def guardar_cinemas(cinemas: Cinemas, sessoes: Dict[tuple, dict]) -> None:
         por_nome = {s["nome"]: s for s in ant.get("salas", [])}
         for nome, s in salas.get(c["id"], {}).items():
             velho = por_nome.get(nome, {})
-            s["formatos"] += [t for t in velho.get("formatos", []) if t not in s["formatos"]]
+            s["formatos"] += [t for t in velho.get("formatos", [])
+                              if t not in s["formatos"] and formato_de_sala(t)]
             por_nome[nome] = s
         manual = lotacao.get(c["id"], {})
         for nome, lugares in manual.get("salas", {}).items():

@@ -1,0 +1,1013 @@
+{
+  "gerado_em": "2026-10-10T16:54:39+01:00",
+  "distrito": "Porto",
+  "notas": [
+    "salas: as que aparecem nas sessões do filmspot (e de execuções anteriores); uma sala sem sessões pode faltar. n_salas é o total conhecido quando há fonte para isso, senão o número de salas vistas.",
+    "lugares/lugares_total: de salas_porto_manual.json, mantido à mão; null = desconhecido."
+  ],
+  "cinemas": [
+    {
+      "id": "casa-das-artes-do-porto",
+      "nome": "Casa das Artes do Porto",
+      "aliases": [],
+      "complemento": null,
+      "morada": "Rua Ruben A 210",
+      "codigo_postal": "4150-639",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.156394,
+        "lon": -8.643545
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/casa-das-artes-do-porto-93/"
+      }
+    },
+    {
+      "id": "castello-lopes-mira-maia-shopping",
+      "nome": "Castello Lopes Mira Maia Shopping",
+      "aliases": [
+        "Castello Lopes - Mira Maia Shopping"
+      ],
+      "complemento": "Mira Maia Shopping - Loja 1 001",
+      "morada": "Estrada Real, 95",
+      "codigo_postal": "4470-274",
+      "localidade": "Maia",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.255251,
+        "lon": -8.653414
+      },
+      "n_salas": 4,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/castello-lopes-mira-maia-shopping-52/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/vivacine---maia-247320",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinema-trindade",
+      "nome": "Cinema Trindade",
+      "aliases": [],
+      "complemento": "Cinema Trindade",
+      "morada": "Rua do Almada, 412",
+      "codigo_postal": "4000-303",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.150448,
+        "lon": -8.611692
+      },
+      "n_salas": 2,
+      "lugares_total": 352,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinema-trindade-113/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/trindade-17556",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      },
+      "lotacao_nota": {
+        "nota": "Duas salas, de 169 e 183 lugares (reabertura em 2017); a fonte não diz qual é a Sala 1.",
+        "fonte": "https://www.dn.pt/arquivo/diario-de-noticias/ha-um-novo-filme-no-porto-que--so-esta-a-espera-dos-espectadores-5620286.html"
+      }
+    },
+    {
+      "id": "cinemas-nos-alameda-shop-e-spot-porto",
+      "nome": "Cinemas NOS Alameda Shop & Spot Porto",
+      "aliases": [
+        "Cinemas Nos Alameda Shop e Spot",
+        "Cinemas NOS Alameda Shop & Spot"
+      ],
+      "complemento": "Centro Comercial Alameda Shop & Spot (ex- Dolce Vita Porto)",
+      "morada": "Rua dos Campeões Europeus, 28-198",
+      "codigo_postal": "4350-414",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.163666,
+        "lon": -8.584079
+      },
+      "n_salas": 7,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 6",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 7",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-alameda-shop-spot-porto-41/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/zon-lusomundo-dolce-vita-porto-128536",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinemas-nos-ferrara-plaza-pacos-de-ferreira",
+      "nome": "Cinemas NOS Ferrara Plaza - Paços de Ferreira",
+      "aliases": [
+        "Cinemas Nos Ferrara Plaza",
+        "Cinemas NOS Ferrara Plaza"
+      ],
+      "complemento": "Centro Comercial Ferrara Plaza",
+      "morada": "Rua das Pedreiras 36",
+      "codigo_postal": "4590-073",
+      "localidade": "Paços de Ferreira",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.284746,
+        "lon": -8.362223
+      },
+      "n_salas": 5,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-ferrara-plaza-pacos-de-ferreira-28/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/zon-lusomundo-ferrara-plaza-162829",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinemas-nos-gaia-shopping",
+      "nome": "Cinemas NOS Gaia Shopping",
+      "aliases": [],
+      "complemento": "Centro Comercial GaiaShopping",
+      "morada": "Av. dos Descobrimentos 549",
+      "codigo_postal": "4404-503",
+      "localidade": "Vila Nova de Gaia",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.118446,
+        "lon": -8.6225123
+      },
+      "n_salas": 6,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1 - 4DX",
+          "lugares": null,
+          "formatos": [
+            "4DX",
+            "3D"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 6",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-gaia-shopping-31/",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinemas-nos-mar-shopping-matosinhos",
+      "nome": "Cinemas NOS Mar Shopping Matosinhos",
+      "aliases": [],
+      "complemento": "Centro Comercial Mar Shopping Matosinhos",
+      "morada": "Avenida Dr. Óscar Lopes",
+      "codigo_postal": "4450-337",
+      "localidade": "Matosinhos",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.2082508,
+        "lon": -8.6889625
+      },
+      "n_salas": 8,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-27"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 6",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 7",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala IMAX",
+          "lugares": null,
+          "formatos": [
+            "IMAX"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-mar-shopping-matosinhos-49/",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinemas-nos-norteshopping-matosinhos",
+      "nome": "Cinemas NOS NorteShopping - Matosinhos",
+      "aliases": [
+        "Cinemas Nos NorteShopping",
+        "Cinemas NOS NorteShopping"
+      ],
+      "complemento": "Centro Comercial NorteShopping",
+      "morada": "Rua Sara Afonso 105-107",
+      "codigo_postal": "4460-841",
+      "localidade": "Senhora da Hora",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.180788,
+        "lon": -8.654518
+      },
+      "n_salas": 9,
+      "lugares_total": 2286,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO",
+            "Legendas em Inglês"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3 NOS XL Vision",
+          "lugares": null,
+          "formatos": [
+            "XLVISION",
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-27"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 6 Screen X",
+          "lugares": null,
+          "formatos": [
+            "3D",
+            "SCREENX",
+            "ATMOS",
+            "INFINITY"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 7",
+          "lugares": null,
+          "formatos": [
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 8",
+          "lugares": null,
+          "formatos": [
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 9",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-norteshopping-matosinhos-35/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/zon-lusomundo-norteshopping-17583",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      },
+      "lotacao_nota": {
+        "nota": "Complexo renovado com sala ScreenX e NOS XVision; seis salas têm zona premium.",
+        "fonte": "https://pplware.sapo.pt/?p=639149"
+      }
+    },
+    {
+      "id": "cinemas-nos-parque-nascente-rio-tinto",
+      "nome": "Cinemas NOS Parque Nascente - Rio Tinto",
+      "aliases": [
+        "Cinemas Nos Parque Nascente",
+        "Cinemas NOS Parque Nascente"
+      ],
+      "complemento": "Centro Comercial Parque Nascente",
+      "morada": "Praceta Parque Nascente 35",
+      "codigo_postal": "4435-182",
+      "localidade": "Rio Tinto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.174467,
+        "lon": -8.565688
+      },
+      "n_salas": 12,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "ATMOS",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 6",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 7",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 8",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 9",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 10",
+          "lugares": null,
+          "formatos": [
+            "VO",
+            "VP"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 11",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 12",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemas-nos-parque-nascente-rio-tinto-46/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/zon-lusomundo-parque-nascente-95747",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "cinemax-penafiel",
+      "nome": "Cinemax Penafiel",
+      "aliases": [
+        "Cinemax - Penafiel"
+      ],
+      "complemento": "Edifício Parque do Sameiro",
+      "morada": "Rua António Ferreira Gomes, 104",
+      "codigo_postal": "4560-568",
+      "localidade": "Penafiel",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.2001053,
+        "lon": -8.2896687
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/cinemax-penafiel-78/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/cinemax---penafiel-17704"
+      }
+    },
+    {
+      "id": "passos-manuel-porto",
+      "nome": "Passos Manuel - Porto",
+      "aliases": [],
+      "complemento": null,
+      "morada": "Rua Passos Manuel 137",
+      "codigo_postal": "4000-385",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.146818,
+        "lon": -8.605492
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/passos-manuel-porto-87/"
+      }
+    },
+    {
+      "id": "rivoli-teatro-municipal-porto",
+      "nome": "Rivoli Teatro Municipal - Porto",
+      "aliases": [],
+      "complemento": null,
+      "morada": "Praça Dom João I",
+      "codigo_postal": "4000-295",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.147695,
+        "lon": -8.60969
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/rivoli-teatro-municipal-porto-96/"
+      }
+    },
+    {
+      "id": "teatro-fonseca-moreira-felgueiras",
+      "nome": "Teatro Fonseca Moreira - Felgueiras",
+      "aliases": [],
+      "complemento": null,
+      "morada": "Avenida Dr. Magalhães Lemos, 74",
+      "codigo_postal": "4610-165",
+      "localidade": "Felgueiras",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.3679411,
+        "lon": -8.1978397
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/teatro-fonseca-moreira-felgueiras-302/"
+      }
+    },
+    {
+      "id": "teatro-municipal-campo-alegre-porto",
+      "nome": "Teatro Municipal Campo Alegre - Porto",
+      "aliases": [
+        "Medeia Teatro Municipal Campo Alegre",
+        "Teatro Municipal Campo Alegre"
+      ],
+      "complemento": "Rua das Estrelas",
+      "morada": "R. das Estrelas",
+      "codigo_postal": "4150-762",
+      "localidade": "Porto",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.1505852,
+        "lon": -8.6391783
+      },
+      "n_salas": 1,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/teatro-municipal-campo-alegre-porto-70/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/medeia-cine-estudio-do-teatro-campo-alegre-21365",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      }
+    },
+    {
+      "id": "teatro-municipal-de-vila-do-conde",
+      "nome": "Teatro Municipal de Vila do Conde",
+      "aliases": [],
+      "complemento": null,
+      "morada": "Avª Dr. João Canavarro",
+      "codigo_postal": "4480-668",
+      "localidade": "Vila do Conde",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.352692,
+        "lon": -8.745694
+      },
+      "n_salas": null,
+      "lugares_total": null,
+      "salas": [],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/teatro-municipal-de-vila-do-conde-101/"
+      }
+    },
+    {
+      "id": "uci-cinemas-arrabida-20-gaia",
+      "nome": "UCI Cinemas Arrábida 20 - Gaia",
+      "aliases": [
+        "UCI Arrábida",
+        "UCI Cinemas Arrábida 20"
+      ],
+      "complemento": "Centro Comercial Arrábida Shopping",
+      "morada": "Praceta Henrique Moreira, 244",
+      "codigo_postal": "4400-346",
+      "localidade": "Vila Nova de Gaia",
+      "distrito": "Porto",
+      "gps": {
+        "lat": 41.141939,
+        "lon": -8.637029
+      },
+      "n_salas": 19,
+      "lugares_total": null,
+      "salas": [
+        {
+          "nome": "Sala 1",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 2",
+          "lugares": null,
+          "formatos": [
+            "VO",
+            "VP"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 3",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 4",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 5",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 7",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 8",
+          "lugares": null,
+          "formatos": [
+            "VP",
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 9",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 10",
+          "lugares": null,
+          "formatos": [
+            "VO",
+            "VP"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 11",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 12",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 13",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 14",
+          "lugares": null,
+          "formatos": [
+            "VO",
+            "VP"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 15",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 16",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 17",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 18",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 19",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        },
+        {
+          "nome": "Sala 20",
+          "lugares": null,
+          "formatos": [
+            "VO"
+          ],
+          "visto_em": "2026-10-14"
+        }
+      ],
+      "fontes": {
+        "filmspot": "https://filmspot.pt/cinema/uci-cinemas-arrabida-20-gaia-63/",
+        "cinecartaz": "https://cinecartaz.publico.pt/cinema/uci-arrabida-17559",
+        "magazine-hd": "https://www.magazine-hd.com/filme/"
+      },
+      "lotacao_nota": {
+        "nota": "Construído com 20 salas e mais de 4000 lugares; em 2025 foi autorizado o fecho de 9 salas, por isso o total atual é incerto.",
+        "fonte": "https://echoboomer.pt/arrabidashopping-fecha-quase-metade-salas-de-cinema/"
+      }
+    }
+  ]
+}
